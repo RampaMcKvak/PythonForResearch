@@ -1,3 +1,3 @@
 """
-Homework 1 - Python for research as is
+Homework 1 - Python for research
 """
